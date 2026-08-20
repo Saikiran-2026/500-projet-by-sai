@@ -17,20 +17,6 @@ I am continuously building projects to improve my programming, problem-solving, 
 
 Yes. Keep it **very simple**.
 
-### 1. Put this in your GitHub README
-
-## 🚀 My 500 IoT Projects
-
-I am an Electrical Engineering student learning and building IoT projects.
-
-My goal is to learn by building **500 IoT projects**, from simple sensor projects to smart home, automation, robotics, and real-world solutions.
-
-📂 **Complete 500 Project Collection:**
-👉 [Open My 500 IoT Projects](https://drive.google.com/file/d/1oEgluNOWh-2dc4q1Qo9wuT8_zuf_As6u/view?usp=drivesdk)
-
-I am continuously learning, building, testing, and improving my projects.
-
-**Learn → Build → Test → Improve → Create Real Solutions 🚀**
 
 ### 2. How to download the file
 
@@ -66,26 +52,6 @@ You should see things like:
 ```
 
 These are your project folders.
-
-### 4. Then upload them to GitHub
-
-Don't upload all 500 at once.
-
-Start with **Project 1**.
-
-For example:
-
-```text
-500-project-by-sai
-│
-├── README.md
-├── 001-DHT11-DHT22
-├── 002-BMP180
-├── 003-Rain-Sensor
-└── ...
-```
-
-
 
 
 
