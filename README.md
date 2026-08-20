@@ -2,7 +2,7 @@
 500 IoT Projects — A hands-on portfolio of real-world IoT solutions, automation systems, smart devices, and embedded projects built to solve practical problems.
 ## 🚀 My 500 IoT Projects
 
-I am a **B.Sc. Computer Science student** passionate about **IoT, programming, automation, and smart technology**.
+I am a **B.Sc. Computer Science student** passionate about **IoT, programming, automation, and Robotics smart technology**.
 
 I am building and learning through **500 IoT projects**, starting from simple sensor projects and progressing toward smart systems, automation, robotics, and real-world solutions.
 
