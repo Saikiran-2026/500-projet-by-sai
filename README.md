@@ -65,6 +65,35 @@ I am an **Electrical Engineering student** passionate about IoT, embedded system
 My goal is to design, build, test, and document **500 practical projects**, starting with fundamentals and progressing toward real-world engineering and client-oriented solutions.
 
 ---
+## 732+ n8n Automation Projects
+
+I have built and explored **732+ automation projects using n8n**, covering a wide range of real-world workflows, integrations, and productivity solutions.
+
+These projects demonstrate how I use **n8n, APIs, AI, webhooks, databases, cloud services, and other tools** to connect different systems and automate repetitive tasks. Each workflow is designed to solve a specific problem, reduce manual work, improve efficiency, or create a smarter digital process.
+
+My collection includes automations for **AI workflows, data processing, notifications, email automation, API integration, webhooks, content workflows, business processes, database operations, and system integrations**.
+
+I am adding these projects to my portfolio so that anyone visiting my website can **explore the actual n8n workflows and understand how the automations are designed and implemented**.
+
+### What This Collection Demonstrates
+
+* **732+ n8n automation projects**
+* AI-powered workflow automation
+* API and webhook integrations
+* Automated data processing
+* Email and notification automation
+* Database and cloud integrations
+* Business process automation
+* Repetitive-task automation
+* Multi-step workflow design
+* Connecting different applications and services
+
+**This collection represents my practical experience in workflow automation and my interest in building intelligent systems that can save time, reduce repetitive work, and make everyday processes more efficient.**
+
+This is the link of my 732 +automation click to access the file--https://drive.google.com/file/d/1zOTGQGVWprGc0PFw1vhjmMo1nuLwHhNA/view?usp=drivesdk
+
+**“732+ Automations — Turning Ideas, Tools & AI into Automated Workflows.”**
+
 
 ## 🎯 What I'm Building
 
